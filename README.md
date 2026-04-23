@@ -1,4 +1,4 @@
-seokey - AI-Powered SEO Keyword Analysis Tool
+seokey - AI analysis
 ---------------------------------------------
 seokey is a full-stack web application designed to help users perform comprehensive SEO keyword analysis. Users can analyze a webpage simply by entering its URL. The app extracts relevant keywords, categorizes them using AI, and fetches real-time SEO metrics to provide a clear picture of the competitive landscape.
 
